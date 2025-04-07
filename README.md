@@ -5,7 +5,6 @@ AI을 활용하여 사람의 감정이나 뇌 상태를 이해하고 분류하�
 
 # 내용
 
----
 ## 2025_0319_0326 주간 정리
 - 개념 정리: CSP (Common Spatial Patterns)  
 → EEG 신호의 공간 패턴을 분리하여 클래스 간 분산을 극대화하는 기법  
@@ -13,7 +12,6 @@ AI을 활용하여 사람의 감정이나 뇌 상태를 이해하고 분류하�
 
 - 논문 리뷰: A Deep Learning Approach for Motor Imagery EEG Signal Classification  
 → 딥러닝을 활용한 Motor Imagery EEG 분류 모델 제안, 기존 CSP 기반 방법보다 정확도 향상  
----
 ## 2025_0327_0402 주간 정리
 - 개념 정리: Gaussian Filter  
   → 이미지 분류에서 노이즈를 제거하고 일반화 능력을 올리기 위해 적용,  
@@ -24,7 +22,6 @@ AI을 활용하여 사람의 감정이나 뇌 상태를 이해하고 분류하�
   → AlexNet을 통해 7~8가지 감정을 분류하는데, LeNet보다 성능이 좋게 나왔음.  
   → 다만, 정성적 평가(눈대중으로 평가) 방식은 눈에 띄게 향상하지 않았음.  
   → 감정분류는 실시간 cv 모듈을 통해 AWS 서버에서 실시간 감정처리 방식으로 진행
----
 ## 2025_0403_0409 주간 정리
 - 개념 정리1: DCGAN  
   → DCGAN(Deep Convolutional GAN)은 GAN의 한 종류로, Generator와 Discriminator 모두에 CNN 구조를 적용한 모델.  
